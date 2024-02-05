@@ -1,0 +1,21 @@
+{
+    "name": "nrzamir/simple-tools-php",
+    "description": "Simple tools for all projects like database functions and routing functions",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimpleTools\\": "src/"
+        }
+    },
+    "require-dev": {
+        "nrzAmirHo3in/simple-tools-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "nrzAmirHo3in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
