@@ -8,5 +8,5 @@
 ## Installation
 
 ```bash
-composer require 
+composer require nrzamir/simple-tools-php
 ```
